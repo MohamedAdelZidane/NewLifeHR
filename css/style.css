@@ -1,0 +1,412 @@
+body {    
+    background-color: #f4f7f6;
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    color: #000
+}
+
+#navigationBColor{
+    background-color: #000;
+    color: #fff;
+    font-family: 'Lato', sans-serif;   
+    padding: 1px;
+}
+
+#mobile{
+    background-color: #000;
+}
+
+.companyLogo {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+
+.companyLogo a{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#space:hover{
+    color: #2E7D32;
+}
+#space:focus{
+    color: #2E7D32;
+    background-color: #000;
+}
+
+#navbar{
+    color: #fff;
+}
+#navbar:hover {
+    color: #2E7D32;
+}
+#navbar:focus{
+    color: #2E7D32;
+    background-color: #000;
+}
+#navbar:hover:not(.active) {
+    background-color: #000;
+}
+
+#postJobs{
+    color: #000000;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 50px;
+    border: none;
+    border-radius: 1px;
+    background-color:  #fff;
+}
+
+#postJobs:hover{
+    background-color:  green;
+    color: #fff;
+}
+
+.jumbotron{
+    background-image: url('../images/bk.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    min-height: 400px;
+}
+
+#photoText{
+    text-align: center;
+    padding-top: 50px;
+}
+
+#input1{
+    width: 20%;
+    height: 8vh;
+    color: #000;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+    padding: 10px
+}
+#input2{
+    height: 8vh;
+    width: 20%;
+    color: #000;
+    margin-left: -4px;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+    padding: 10px
+}
+
+#input3{
+    height: 8vh;
+    width: 20%;
+    margin-left: -4px;
+    background-color: #fff;
+    color: black;
+    border-bottom: none;
+    border-top: none;
+    border-left:none;
+    padding: 10px;
+    outline: none
+}
+#input4{
+    text-align: center;
+    height: 8vh;
+    width: 10%;
+    background-color: #2E7D32;
+    color: #fff;
+    margin-left: -4px;
+    margin-bottom: 4px;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    padding: 15px
+}
+
+.botronText{
+    text-align: center;
+    padding: 20px;
+}
+
+#botronBtn{
+    float: center;
+    margin-left: 43%;
+    background-color: #2E7D32;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 0%;
+    width: 14%;
+    height: 7vh
+}
+
+.carouselSection{
+    padding: 0% 4% 3% 3%;
+}
+
+
+.companiesHiring{
+    display: inline;
+    padding: 20px;
+}
+
+#applyButton{
+    background-color:#2E7D32;
+    border: none;
+    border-radius: 0;
+    width: 30%;
+    color: white;
+    height: 50px;
+}
+
+#applyButton:focus{
+    background-color: #fff;
+    color: #2E7D32;
+    outline-color: #2E7D32;
+}
+
+.HireSlogan{
+    padding: 2% 4% 3% 3%;
+    background-color: #fff;
+    color: #000;
+    font-weight: 200
+}
+
+#btnTheHire{
+    background-color: #2E7D32;
+    color: #fff;
+    border: none;
+    padding: 15px;
+    margin-left: 1%;
+    margin-top: 2%;
+    border-radius: 0px;
+    font-size: 18px;
+}
+
+#btnTheHire:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.clients{
+    padding: 2% 1% 4% 5%;
+    background-color: #f4f7f6;
+}
+
+#clientsText{
+    text-align: center;
+}
+
+#clientsText p{
+    font-size: 150%;
+}
+
+#clientText{
+    padding: 2%;
+}
+
+.contactSection{
+    padding: 1% 6% 1% 6%;
+    background-color: #fff;
+}
+
+#send{
+    background-color: #2E7D32;
+    color: #fff;
+    width: 20%;
+    height: 6vh;
+    border: none;
+    border-radius: 0;
+}
+#send:focus{
+    background-color: #000;
+    color: #fff;
+    outline-color: #fff;
+}
+
+#footer{
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+}
+
+
+#footerNavigation{
+    padding-left: 50px;
+    padding-right: 5px;
+}
+#footerNavigation a{ 
+    color: #fff;
+    text-decoration: none;  
+}
+
+#footerNavigation a:hover{ 
+    background-color: #000;
+    color: #2E7D32;
+}
+
+#headerColor{
+    color: gray
+}
+
+#policyText{
+    text-align: left;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#dropdownNavigation{
+    background-color: #fff;
+    color: #000;
+}
+#dropdownNavigation:hover:not(.active){
+    background-color: #000;
+}
+
+
+#sepaRator{
+    padding-top: 15px;
+}
+
+
+
+
+.dropdown-menu:hover:not(.active) {
+    color: #1db954;
+}
+
+
+
+
+#footerLine{
+     border: 0;
+    margin-left: 50px;
+    margin-right: 70px;
+    color: #1db954;
+background-color: #919496;
+height: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+form{
+    text-align: center;
+}
+
+
+
+
+
+.fa {
+    padding: 5px;
+    font-size: 20px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.dropdown-menu.columns-2 {
+	min-width: 400px;
+    padding-right: 20px;
+}
+.multi-column-dropdown {
+	list-style: none;
+}
+.multi-column-dropdown li a {
+	display: block;
+	clear: both;
+	line-height: 1.428571429;
+	color: #333;
+	white-space: normal;
+}
+.multi-column-dropdown li a:hover {
+	text-decoration: none;
+	color: #262626;
+	background-color: #f5f5f5;
+}
+ 
+

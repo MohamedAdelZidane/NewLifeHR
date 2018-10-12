@@ -1,0 +1,1 @@
+$('.browserselectpicker').selectpicker();
